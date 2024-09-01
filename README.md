@@ -32,14 +32,6 @@ Contributions are welcome! If you have examples of insecure code or fixes for di
 3. Add your examples and fixes.
 4. Submit a pull request.
 
-## License
 
-This repository is licensed under the [MIT License](LICENSE).
 
-## Contact
 
-For questions or comments, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to adjust the sections and contact details according to your needs!
